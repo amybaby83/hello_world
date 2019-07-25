@@ -1,2 +1,2 @@
 # hello_world
-This is pretty standard since I'm learning how to use GitHub
+A simple program to say hello! Written in C++
